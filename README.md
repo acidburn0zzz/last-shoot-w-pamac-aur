@@ -1,5 +1,5 @@
 # latest-build pkgs with pamac-gtk toolchain for manjaro-linux gnome.
-# URL = "https://acidburn0zzz.github.io/latest-builded-pkg-with-pamac-aur/README.md"
+# URL = "https://acidburn0zzz.github.io/last-shoot-w-pamac-aur/README.md"
 
 + pamac-build/auracle-git
 + pamac-build/balong-usbdload-git
