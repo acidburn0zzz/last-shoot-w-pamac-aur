@@ -1,4 +1,4 @@
-# latest-build pkgs with pamac-gtk toolchain for manjaro-linux gnome.
+# last-shoot-w-pamac-aur toolchain for manjaro-like distro of archbased linux with gnome.
 # URL = "https://acidburn0zzz.github.io/last-shoot-w-pamac-aur/README.md"
 
 + pamac-build/auracle-git
